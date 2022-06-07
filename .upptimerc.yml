@@ -13,7 +13,7 @@ sites:
     url: https://www.nycu.edu.tw/
   - name: NTU
     url: https://www.ntu.edu.tw/
-  - name: 無效網址
+  - name: Failed webpage
     url: https://www.Zu.edu.tw/tw/
 
 status-website:
