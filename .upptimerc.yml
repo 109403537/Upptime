@@ -5,12 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: NCU
     url: https://www.ncu.edu.tw/tw/index.html
-  - name: 摩斯漢堡
-    url: https://www.mos.com.tw/
-  - name: 總統府首頁
-    url: https://www.president.gov.tw/
-  - name: 燦坤
-    url: https://www.tkec.com.tw/
+  - name: NCKU
+    url: https://www.ncku.edu.tw/
+  - name: NCNU
+    url: https://rpage.ncnu.edu.tw/
+  - name: YNCU
+    url: https://www.nycu.edu.tw/
   - name: NTU
     url: https://www.ntu.edu.tw/
   - name: 無效網址
