@@ -78,7 +78,7 @@
     "url": "https://www.ntu.edu.tw/",
     "icon": "https://favicons.githubusercontent.com/www.ntu.edu.tw",
     "slug": "ntu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 1855,
     "timeMonth": 1688,
     "timeYear": 1688,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-28": 0
+    }
   },
   {
     "name": "Failed webpage",
