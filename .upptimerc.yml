@@ -13,6 +13,8 @@ sites:
     url: https://www.nycu.edu.tw/
   - name: NTU
     url: https://www.ntu.edu.tw/
+  - name: Youtube
+    url: https://www.youtube.com/
 
 
 status-website:
